@@ -8,4 +8,4 @@
 
 * [Car Insurance Claim Prediction](https://github.com/danielnavarro2911/datascience-portfolio/blob/main/customer-car-insurance-version3.ipynb) - Using Logistic Regression with Scikit-learn for Car Insurance Claim Prediction. We are obtaining a general accuracy of 82%, where if it is predicted that the client uses the insurance, there is a 73% probability that he will use it. Since we deal with insurance, it's a good prediction..
 \
-*Skills demonstrated: Python, Scikit-learn, Pandas, Seaborn, Matplotlib ,Jupyter Notebook, Data preprocessing, Data Visualization, story telling*
+*Skills demonstrated: Python, Scikit-learn, Pandas, Seaborn, Matplotlib ,Jupyter Notebook, filling missing data ,Data preprocessing, Data Visualization, story telling*
