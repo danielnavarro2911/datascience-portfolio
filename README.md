@@ -1,4 +1,7 @@
 # Data Science Portfolio
+## Deep Learning 
+* [Predicting 100 random bird species (No transfer learning)](https://github.com/danielnavarro2911/datascience-portfolio/blob/main/Birds.ipynb) - Using convolutional neural networks with TensorFlow, I created and trained a model capable of predicting a bird species out of 100 possible species, with 76% accuracy.
+
 
 ## Traditional Machine Learning 
 
@@ -12,4 +15,3 @@ In the end we improved a little the results using TensorFlow up to an error of $
 *Skills demonstrated: Python, Scikit-learn, Pandas, Seaborn, Matplotlib ,Jupyter Notebook, filling missing data ,Data preprocessing, Data Visualization, story telling*
 
 
-## Deep Learning 
